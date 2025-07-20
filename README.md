@@ -35,16 +35,16 @@ This project explores modern portfolio theory by analyzing the historical return
 ---
 
 ## 📄 Report & Analysis
+📊 [Download the full Excel workbook](https://github.com/Irin-Thomas/Portfolio-Risk-Analysis/blob/main/Data/Portfolio%20Risk%20Analysis.xlsx)
 
-📄 [Read the full project report (PDF)](docs/Portfolio_Optimization_Report.pdf)  
-📊 [Download the full Excel workbook](data/Portfolio_Calculations.xlsx)
+📄 [Read the full project report (PDF)](https://github.com/Irin-Thomas/Portfolio-Risk-Analysis/blob/main/Doc/Portfolio%20Risk%20analysis.pdf) 
 
 ---
 
-## 📷 Sample Chart (Optional)
+## 📷  Chart 
 
-*(Insert image after uploading)*  
-![Efficient Frontier](figures/efficient_frontier.png)
+ 
+![Efficient Frontier](https://github.com/Irin-Thomas/Portfolio-Risk-Analysis/blob/main/figures/Efficient%20Frontier%20Curve.png)
 
 ---
 
