@@ -31,7 +31,9 @@ This project explores modern portfolio theory by analyzing the historical return
 ---
 
 ## 📂 Project Structure
-
+- Data
+- Doc
+- Figures
 ---
 
 ## 📄 Report & Analysis
@@ -48,6 +50,12 @@ This project explores modern portfolio theory by analyzing the historical return
 
 ---
 
-## 📬 Contact  
-[irinthomas0@gmail.com](mailto:irinthomas0@gmail.com)
+## 📚 References
+
+Citations and source materials are listed in the final report PDF [Portfolio Risk analysis.pdf](https://github.com/Irin-Thomas/Portfolio-Risk-Analysis/blob/main/Doc/Portfolio%20Risk%20analysis.pdf)
+
+
+##📬 Contact
+Author: Irin Mary Thomas
+Email: irinthomas0@gmail.com
 
