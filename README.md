@@ -31,7 +31,7 @@ This project explores modern portfolio theory by analyzing the historical return
 ---
 
 ## 📂 Project Structure
-- [Data](https://github.com/Irin-Thomas/Portfolio-Risk-Analysis/blob/main/Doc/Portfolio%20Risk%20analysis.pdf)
+- [Data](https://github.com/Irin-Thomas/Portfolio-Risk-Analysis/blob/main/Data/Portfolio%20Risk%20Analysis.xlsx)
 - [Doc](https://github.com/Irin-Thomas/Portfolio-Risk-Analysis/blob/main/Doc/Portfolio%20Risk%20analysis.pdf)
 - [Figures](https://github.com/Irin-Thomas/Portfolio-Risk-Analysis/tree/main/figures)
 ---
